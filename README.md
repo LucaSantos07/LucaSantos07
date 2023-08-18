@@ -12,7 +12,7 @@
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"> 
   <a href="https://github.com/LucaSantos07/Campeonato-SQL" target="_blank"><img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://github.com/LucaSantos07/Projeto-7BANK" target="_blank"><img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <a href="https://github.com/LucaSantos07?tab=repositories&q=&type=&language=java&sort=" target="_blank"><img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <a href="https://github.com/LucaSantos07/Leandig-Page" target="_blank"><img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
