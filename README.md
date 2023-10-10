@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com TI
-- 🌱 Sou Tec. Desenvolvimento de Sistemas
+- 🌱 Tec. Desenvolvimento de Sistemas
 -  Para visualizar meus projetos de uma linguagem específica ou acessar as minhas midias socias, apenas click em um dos icones abaixo que você será direcionado. 
 <div align="center">
   <a href="https://github.com/LucaSantos07">
