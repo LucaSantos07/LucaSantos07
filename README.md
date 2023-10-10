@@ -2,7 +2,8 @@
 
 
 - 🔭 Hoje trabalho com TI
-- 🌱 Atualmente estou cursando Tec. Desenvolvimento de Sistemas
+- 🌱 Sou Tec. Desenvolvimento de Sistemas
+-  Para visualizar meus projetos de uma linguagem específica ou acessar as minhas midias socias, apenas click em um dos icones abaixo que você será direcionado. 
 <div align="center">
   <a href="https://github.com/LucaSantos07">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucaSantos07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
